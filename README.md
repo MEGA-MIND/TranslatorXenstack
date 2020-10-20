@@ -1,6 +1,6 @@
 # TranslatorXenstack
 
-## This is an English to Hindi Converter
+## This is an English to Hindi Converter written in python
 
 
 ### This converter requires you to have tkinter and googletrans library in your execution environment.
